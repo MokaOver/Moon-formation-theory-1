@@ -53,17 +53,16 @@
     });
     nextButton3.addEventListener("click", () => {
       textContainer4.textContent = "Way before, the Apollo missions (spaceships sent to the Moon) collected 2200 samples of the Moon\’s rock (with a total mass of 382 kg). After the scientists experimented and tested with the rocks, the results were supporting and with the Giant Impact Theory. In 2012, a scientist called Robin M. Canup had a suggestion for a new theory. He said that both the Earth and Moon were formed from the collision of two protoplanets (both bigger than Mars). This formed the Earth and a debris disc, forming the Moon";
-      nextButton2.style.display = "none";
-      nextButton3.style.display = "inline-block";
-    });
-    nextButton4.addEventListener("click", () => {
-      textContainer5.textContent = "Even though there is evidence that supports the Impact Theory, there are evidence against it:There is no visual evidence that a part of the Earth was molten. Moreover, no magma oceans are there on the Earth like that on the Moon.There is very tiny evidence of material of Theia, the protoplanet on the surface of Earth or Moon.There is no hypothesis that is fully supported with evidence that is truly right";
       nextButton3.style.display = "none";
       nextButton4.style.display = "inline-block";
     });
-    nextButton5.addEventListener("click", () => {
-      textContainer6.textContent = "Refrences: 1.Notes, 2.Wikipedia, 3.Youtube";
+    nextButton4.addEventListener("click", () => {
+      textContainer5.textContent = "Even though there is evidence that supports the Impact Theory, there are evidence against it:There is no visual evidence that a part of the Earth was molten. Moreover, no magma oceans are there on the Earth like that on the Moon.There is very tiny evidence of material of Theia, the protoplanet on the surface of Earth or Moon.There is no hypothesis that is fully supported with evidence that is truly right";
       nextButton4.style.display = "none";
       nextButton5.style.display = "inline-block";
+    });
+    nextButton5.addEventListener("click", () => {
+      textContainer6.textContent = "Refrences: 1.Notes, 2.Wikipedia, 3.Youtube";
+      nextButton5.style.display = "none";
     });
       });
