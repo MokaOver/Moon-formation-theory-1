@@ -24,7 +24,7 @@ body {
   .selected {
     background-color: blue;
   }
-  #get-more-information1 {
+  #show-button {
     padding: 10px 20px;
     background-color: yellow;
     border: none;
