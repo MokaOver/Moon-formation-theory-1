@@ -48,7 +48,7 @@ body {
     margin-top: 20px;
     font-size: 18px;
   }
-  
+
   #next-button2 {
     padding: 10px 20px;
     background-color: yellow;
@@ -58,6 +58,45 @@ body {
     cursor: pointer;
   }
   #text-container3 {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+
+  #next-button3 {
+    padding: 10px 20px;
+    background-color: yellow;
+    border: none;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  #text-container4 {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+
+  #next-button4 {
+    padding: 10px 20px;
+    background-color: yellow;
+    border: none;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  #text-container5 {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+
+  #next-button5 {
+    padding: 10px 20px;
+    background-color: yellow;
+    border: none;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  #text-container6 {
     margin-top: 20px;
     font-size: 18px;
   }
