@@ -25,8 +25,8 @@
      gameContainer.appendChild(moonPiece);
    });
 
-   const showButton = document.getElementById("get-more-information1")
-   const textContainer = document.getElementById("text-container")
+   const showButton = document.getElementById("show-button");
+   const textContainer = document.getElementById("text-container");
     showButton.addEventListener("click", () => {
-        textContainer.textContent = "This was first proposed in 1946 by Canadian geologist \"Reginald Daly \". The hypothesis suggests that the early Earth collided with a Mars-sized dwarf planet of the same orbit approximately 4.5 billion years ago"
-    })
+        textContainer.textContent = "This was first proposed in 1946 by Canadian geologist \"Reginald Daly \". The hypothesis suggests that the early Earth collided with a Mars-sized dwarf planet of the same orbit approximately 4.5 billion years ago";
+    });
