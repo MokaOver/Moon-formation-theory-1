@@ -49,7 +49,7 @@
     nextButton2.addEventListener("click", () => {
       textContainer3.textContent = "Important Questions\: If the Moon was a small planet which was captured by our field, how would their chemical compositions differ?. If the Moon and Earth formed from the same accretion disc, would their inner, chemical composition be similar or still very different?";
       nextButton2.style.display = "none";
-      nextButton3.style.accentColor.display = "inline-block";
+      nextButton3.style.display = "inline-block";
     });
     nextButton3.addEventListener("click", () => {
       textContainer4.textContent = "Way before, the Apollo missions (spaceships sent to the Moon) collected 2200 samples of the Moon\’s rock (with a total mass of 382 kg). After the scientists experimented and tested with the rocks, the results were supporting and with the Giant Impact Theory. In 2012, a scientist called Robin M. Canup had a suggestion for a new theory. He said that both the Earth and Moon were formed from the collision of two protoplanets (both bigger than Mars). This formed the Earth and a debris disc, forming the Moon";
