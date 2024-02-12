@@ -22,7 +22,7 @@ body {
   }
 
   .selected {
-    background-color: lightblue;
+    background-color: blue;
   }
   #get-more-information1 {
     padding: 10px 20px;
